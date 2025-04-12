@@ -46,3 +46,8 @@
     - COUNT()
     - COUNT(DISTINCT)
   - HAVING
+
+- INSERT
+  - AUTO_INCREMENT - 1부터 자동으로 증가, INSERT에서는 해당 열이 없다고 생각하고 입력
+- UPDATE
+- DELETE
